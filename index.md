@@ -1,37 +1,15 @@
-## オンライン授業のガイド
+# はじめに
 
-You can use the [editor on GitHub](https://github.com/otsuma/otsuma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本サイトは大妻女子大学におけるオンライン授業のノウハウを共有することを目的に設置しました。本サイトは大妻女子大学の専任教員、非常勤講師の皆さまに向けた情報を掲載することとしますが、ご意見やアドバイスはどなたからも歓迎致します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## （１）オンライン授業のガイド
 
-### Markdown
+大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、[オンライン授業のガイド（Googleドキュメント）](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#) を作成しました。このガイドは最新の情報を随時反映していきますので、コメント等を随時記入下さい。[(PDF版)].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## （２）manaba簡易版マニュアル
 
-```markdown
-Syntax highlighted code block
+オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。
 
-# Header 1
-## Header 2
-### Header 3
+## （３）リアルタイムオンライン授業をZoomで行うための初心者向け実践マニュアル
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otsuma/otsuma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+オンライン授業には様々な形態がありますが、リアルタイムでかつインタラクティブに行うためのツールとしてGoogle Meet, Zoom, Teams, WebExなどがあります。本学教員が作成しましたZoomの使用方法に関わる資料を作成しましたので掲載致します。Google Meetについても掲載する予定です。
