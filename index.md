@@ -16,4 +16,4 @@
 
 ## オンライン授業の事例集
 
-授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/1PODb_z6a17A-Odvh-Yw7afDbHK33U1Ag008JlUQc6s0/edit?usp=sharing)を作成することになりました。是非、みなさまの事例をご紹介いただきますよう、お願い致します。
+授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)を作成することになりました。是非、みなさまの事例をご紹介いただきますよう、お願い致します。
