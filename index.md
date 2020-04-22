@@ -16,4 +16,4 @@
 
 ## オンライン授業の事例集
 
-授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)を作成することになりました。この事例集を閲覧、編集するには大妻女子大学のG Suiteアカウントが必要です。ログインして編集ください。是非、みなさまの事例をご紹介いただきますよう、お願い致します。
+授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)を作成することになりました。**この事例集を閲覧、編集するには大妻女子大学のG Suiteアカウントが必要です。ログインして編集ください。**是非、みなさまの事例をご紹介いただきますよう、お願い致します。
