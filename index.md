@@ -4,7 +4,9 @@
 
 ## オンライン授業のガイド
 
-大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、[オンライン授業のガイド（Googleドキュメント）](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#) を作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。[(PDF（2020.4.17版)](docs/doc01.pdf).
+大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、[オンライン授業のガイド（Googleドキュメント）](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#) を作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
+- [PDF（2020.4.23版)](docs/doc01-200423.pdf).
+- [PDF（2020.4.17版)](docs/doc01.pdf).
 
 ## manaba簡易版マニュアル
 
@@ -16,4 +18,4 @@
 
 ## オンライン授業の事例集
 
-授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)を作成することになりました。**この事例集を閲覧、編集するには大妻女子大学のG Suiteアカウントが必要です。ログインして編集ください。**是非、みなさまの事例をご紹介いただきますよう、お願い致します。
+授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/e/2PACX-1vS1rvmqQbwg34QuVwx20Mck4DO71eAFODgTn692P-6zHyYSqX08nyYBUusQXsOui0xlZAeTDpz3hCyl/pub)を作成することになりました。4月22日時点では、まだ、ほとんど投稿はありませんが、是非、みなさまの事例をご紹介いただきますようお願い致します。**この事例集を編集するには大妻女子大学のG Suiteアカウントが必要です。ログインして編集ください。[編集はこちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)**
