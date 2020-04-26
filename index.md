@@ -5,13 +5,11 @@
 ## オンライン授業のガイド
 
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、[オンライン授業のガイド（Googleドキュメント）](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#) を作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
-- [PDF（2020.4.24版)](docs/doc01-200424.pdf).
-- [PDF（2020.4.23版)](docs/doc01-200423.pdf).
-- [PDF（2020.4.17版)](docs/doc01.pdf).
+- [PDF（2020.4.26版)](docs/doc01-200426.pdf).
 
 ## manaba簡易版マニュアル
 
-オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。
+オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。尚、また、アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを使用して下さい。詳細は[Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1MLMWnGLRVaR1ZkVoTV7NZ5HpMXSzNfX7z_UlOgSqkz8/edit)と[教材をYouTubeを使用して配布する方法](https://otsuma.github.io/docs/doc04.pdf)を参照ください。
 
 ## Zoom実践マニュアル
 
