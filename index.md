@@ -5,7 +5,7 @@
 ## オンライン授業のガイド
 
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、[オンライン授業のガイド（Googleドキュメント）](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#) を作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
-- [PDF（2020.4.26版)](docs/doc01-200426.pdf).
+- [PDF（2020.4.28版)](docs/doc01-200428.pdf).
 
 ## manaba簡易版マニュアル
 
