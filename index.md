@@ -9,7 +9,7 @@
 
 ## manaba簡易版マニュアル
 
-オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。尚、また、アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを使用して下さい。詳細は[Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1MLMWnGLRVaR1ZkVoTV7NZ5HpMXSzNfX7z_UlOgSqkz8/edit)と[教材をYouTubeを使用して配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)を参照ください。
+オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。尚、また、アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを使用して下さい。詳細は[Googleドライブから教材を配布する方法](docs/GoogleDrive03.pdf)と[教材をYouTubeを使用して配布する方法](https://docs.gousp=sharing)を参照ください。
 
 ## Zoom実践マニュアル
 
