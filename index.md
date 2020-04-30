@@ -15,7 +15,7 @@
 
 - [manaba簡易版マニュアル](docs/doc02.pdf)
 
-アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを用いる必要があります。これらの手順をまとめた資料を作成しました。
+manabaへのアクセス集中を避けるため、manabaの利用はコースニュース、小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを用いることを推奨しています。これらの手順をまとめた資料を作成しました。
 
 - [Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1MLMWnGLRVaR1ZkVoTV7NZ5HpMXSzNfX7z_UlOgSqkz8/edit?usp=sharing)
 - [YouTubeを使用して教材を配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)
