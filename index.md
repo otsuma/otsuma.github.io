@@ -29,4 +29,4 @@ Google Meetを使用してゼミを実施した際に学生に配布した資料
 
 - [オンライン授業の事例集](https://docs.google.com/document/d/e/2PACX-1vS1rvmqQbwg34QuVwx20Mck4DO71eAFODgTn692P-6zHyYSqX08nyYBUusQXsOui0xlZAeTDpz3hCyl/pub)
 
-**この事例集を編集するには大妻女子大学のG Suiteアカウントが必要です。[こちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)からログインして編集ください。**
+この事例集を**編集**するには大妻女子大学のG Suiteアカウントが必要です。[こちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)からログインして編集ください。**
