@@ -9,7 +9,7 @@
 
 ## manaba簡易版マニュアル
 
-オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。尚、また、アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを使用して下さい。詳細は[Googleドライブから教材を配布する方法](docs/GoogleDrive03.pdf)と[教材をYouTubeを使用して配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)を参照ください。
+オンライン授業の教材は授業の内容に応じて、manabaだけではなく、YouTubeやGoogleドキュメントを始めとして様々な媒体で作成されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた[簡易版マニュアル](docs/doc02.pdf)を作成しました。尚、また、アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを使用して下さい。詳細は[Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit)と[教材をYouTubeを使用して配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)を参照ください。
 
 ## Zoom実践マニュアル
 
@@ -25,4 +25,4 @@ Google Meetを使用してゼミを実施した際に学生に配布した資料
 
 ## オンライン授業の事例集
 
-授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/e/2PACX-1vS1rvmqQbwg34QuVwx20Mck4DO71eAFODgTn692P-6zHyYSqX08nyYBUusQXsOui0xlZAeTDpz3hCyl/pub)を作成することになりました。4月28日時点では、まだ、ほとんど投稿はありませんが、是非、みなさまの事例をご紹介いただきますようお願い致します。**この事例集を編集するには大妻女子大学のG Suiteアカウントが必要です。[こちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)からログインして編集ください。**
+授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、[オンライン授業の事例集](https://docs.google.com/document/d/e/2PACX-1vS1rvmqQbwg34QuVwx20Mck4DO71eAFODgTn692P-6zHyYSqX08nyYBUusQXsOui0xlZAeTDpz3hCyl/pub)を作成することになりました。**具体的な講義を事例としたガイド（大社生）**の提供いただき、追加しました(4/30)。みなさまの事例をご紹介いただきますようお願い致します。**この事例集を編集するには大妻女子大学のG Suiteアカウントが必要です。[こちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)からログインして編集ください。**
