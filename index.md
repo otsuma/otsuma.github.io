@@ -18,7 +18,7 @@
 アップロード可能な教材が50Mから10MBに削減されたため、manabaの利用はコースニュースや小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを用いる必要があります。これらの手順をまとめた資料を作成しました。
 
 - [Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1MLMWnGLRVaR1ZkVoTV7NZ5HpMXSzNfX7z_UlOgSqkz8/edit?usp=sharing)
-- [教材をYouTubeを使用して配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)
+- [YouTubeを使用して教材を配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)
 
 オンライン授業には様々な形態がありますが、リアルタイムでかつインタラクティブに行うためのツールとしてGoogle Meet, Zoom, Teams, WebExなどがあります。本学では、ZoomとGoogle Meetを推奨し、以下の資料を作成しました。
 
@@ -28,11 +28,11 @@
 
 ## 学生向けマニュアル
 
-教員向けの教材作成に関するドキュメントは充実してきておりますが、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としてまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただきました。
+教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただいております。
 
 - [オンライン授業を受けるための準備](https://docs.google.com/document/d/12t96PdyN-MeCHlpI-MJNY96ahIHRU4koxqwFZUAoH2A/edit#)
 
-Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布いただけます。
+Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布できます。
 
 - [Google Meetの使用方法](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
 
