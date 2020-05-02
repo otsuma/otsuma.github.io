@@ -30,7 +30,7 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 オンライン授業準備・運用相談窓口には多数の質問が寄せられています。FAQを以下の資料にまとめました。
 
-- [FAQ](https://docs.google.com/document/d/1_yhv29EAvkPSTBmSJLGfncXtJK5CIZEm48R4qajevKU/edit?usp=sharing)
+- [オンライン授業のFAQ](https://docs.google.com/document/d/1_yhv29EAvkPSTBmSJLGfncXtJK5CIZEm48R4qajevKU/edit?usp=sharing)
 
 ## 学生向けマニュアル
 
