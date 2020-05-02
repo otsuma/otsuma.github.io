@@ -7,7 +7,7 @@
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、オンライン授業のガイドを作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
 
 - [Googleドキュメント版(最新)](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#)
-- [PDF版（2020.4.28)](docs/doc01-200428.pdf).
+- [PDF版（2020.5.2)](docs/doc01-200502.pdf).
 
 ## オンライン授業に使用するツール
 
@@ -28,9 +28,12 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 ## 学生向けマニュアル
 
-教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただいております。
+教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただいております。全体編とZoom編と分けて必要に応じて配布可能になりました。
 
-- [オンライン授業を受けるための準備](https://docs.google.com/document/d/12t96PdyN-MeCHlpI-MJNY96ahIHRU4koxqwFZUAoH2A/edit#)
+- [オンライン授業を受けるための準備（全体編）Googleドキュメント版](https://docs.google.com/document/d/1nVIJVc3Svd7bupQ-SJkCDH0LvfA3iZ3UV8OdkyAsOGk/edit?usp=sharing)
+- [オンライン授業を受けるための準備（全体編）pdf版](docs/student01.pdf)
+- [オンライン授業を受けるための準備（Zoom編）Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
+- [オンライン授業を受けるための準備（Zoom編）pdf版](docs/student01Zoom.pdf)
 
 Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布できます。
 
