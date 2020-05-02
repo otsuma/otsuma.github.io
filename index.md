@@ -1,4 +1,4 @@
-# はじめに
+## はじめに
 
 本サイトは大妻女子大学におけるオンライン授業のノウハウを共有することを目的に設置しました。本サイトは大妻女子大学の専任教員、非常勤講師の皆さまに向けた情報を掲載することとしますが、ご意見やアドバイスはどなたからも歓迎致します。
 
@@ -26,6 +26,12 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 今後、Google Meetについても掲載する予定です。
 
+## FAQ
+
+オンライン授業準備・運用相談窓口には多数の質問が寄せられています。FAQをまとめましたのでご確認下さい。
+
+- [FAQ](https://docs.google.com/document/d/1_yhv29EAvkPSTBmSJLGfncXtJK5CIZEm48R4qajevKU/edit?usp=sharing)
+
 ## 学生向けマニュアル
 
 教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただいております。全体編とZoom編と分けて必要に応じて配布可能になりました。
@@ -38,12 +44,6 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布できます。
 
 - [Google Meetの使用方法](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
-
-## FAQ
-
-オンライン授業準備・運用相談窓口には多数の質問が寄せられています。FAQをまとめましたのでご確認下さい。
-
-- [FAQ](https://docs.google.com/document/d/1_yhv29EAvkPSTBmSJLGfncXtJK5CIZEm48R4qajevKU/edit?usp=sharing)
 
 ## 事例集
 
