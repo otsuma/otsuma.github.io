@@ -39,7 +39,13 @@ Google Meetを使用してゼミを実施した際に学生に配布した資料
 
 - [Google Meetの使用方法](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
 
-## オンライン授業の事例集
+## FAQ
+
+オンライン授業準備・運用相談窓口には多数の質問が寄せられています。FAQをまとめましたのでご確認下さい。
+
+- [FAQ](https://docs.google.com/document/d/1_yhv29EAvkPSTBmSJLGfncXtJK5CIZEm48R4qajevKU/edit?usp=sharing)
+
+## 事例集
 
 授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、以下の資料を作成することになりました。みなさまの事例をご紹介いただきますようお願い致します。**具体的な講義を事例としたガイド（大社生）**の提供いただき、追加しました(4/30)。
 
