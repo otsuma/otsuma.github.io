@@ -43,7 +43,8 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布できます。
 
-- [Google Meetの使用方法](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
+- [Google Meetの使用方法 Googleドキュメント版](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
+- [Google Meetの使用方法 pdf版]()
 
 ## 事例集
 
