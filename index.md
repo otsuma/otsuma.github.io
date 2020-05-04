@@ -34,17 +34,16 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 ## 学生向けマニュアル
 
-教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。このような資料を作る上での参考としまして、以下の資料「オンライン授業を受けるための準備」をご提供いただきました。本資料をご提供いただいた宮崎先生から、コピーしてカスタマイズししたものを学生に配布することも許可いただいております。全体編とZoom編と分けて必要に応じて配布可能になりました。
+教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。そこで本部会では以下の資料を作成して、5月4日版のpdf版をmanabaより配布しました。
 
-- [オンライン授業を受けるための準備（全体編）Googleドキュメント版](https://docs.google.com/document/d/1nVIJVc3Svd7bupQ-SJkCDH0LvfA3iZ3UV8OdkyAsOGk/edit?usp=sharing)
-- [オンライン授業を受けるための準備（全体編）pdf版](docs/student01.pdf)
-- [オンライン授業を受けるための準備（Zoom編）Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
-- [オンライン授業を受けるための準備（Zoom編）pdf版](docs/student01Zoom.pdf)
+- [オンライン授業を受けるための準備 Googleドキュメント版](https://docs.google.com/document/d/1nVIJVc3Svd7bupQ-SJkCDH0LvfA3iZ3UV8OdkyAsOGk/edit?usp=sharing)
+- [オンライン授業を受けるための準備 pdf版](docs/student01.pdf)
+- [Zoomの使い方について Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
+- [Zoomの使い方について pdf版](docs/student01Zoom.pdf)
+- [Google Meetの使い方について Googleドキュメント版](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
+- [Google Meetの使い方について pdf版](docs/student01Meet.pdf)
 
-Google Meetを使用してゼミを実施した際に学生に配布した資料のサンプルです。こちらの資料もコピーしてカスタマイズして配布できます。
-
-- [Google Meetの使用方法 Googleドキュメント版](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
-- [Google Meetの使用方法 pdf版](docs/student01Meet.pdf)
+※「オンライン授業を受けるための準備」と「Zoomの使い方について」は社会情報学部宮崎先生より提供いただきました。
 
 ## 事例集
 
