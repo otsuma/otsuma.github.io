@@ -7,7 +7,7 @@
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、オンライン授業のガイドを作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
 
 - [Googleドキュメント版(最新)](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#)
-- [PDF版（2020.5.2)](docs/doc01-200502.pdf).
+- [PDF版（2020.7.27)](docs/doc01-200727.pdf).
 
 ## オンライン授業に使用するツール
 
