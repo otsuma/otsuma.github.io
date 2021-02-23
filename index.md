@@ -6,19 +6,19 @@
 
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、オンライン授業のガイドを作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
 
-- [Googleドキュメント版(最新)](https://docs.google.com/document/d/1je_Nxp-yftXYeSZiQAcE9BLkWb3yOXL3Xqk_vZy6PKI/edit#)
-- [PDF版（2020.7.27)](docs/doc01-200727.pdf).
+- [Googleドキュメント版(令和３年度版)](https://docs.google.com/document/d/1vQC8nDiEuZGrK7Z9xNSq0ZpWOOUMOsaL7IpDw43jbFw/edit?usp=sharing)
+- [PDF版（2021.2.19)](docs/doc01-210219.pdf).
 
 ## オンライン授業に使用するツール
 
 オンライン授業の教材は授業の内容に応じて、様々な媒体で配布されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた以下の資料を作成しました。
 
-- [manaba簡易版マニュアル](docs/doc02.pdf)
+- [manaba簡易版マニュアル](docs/doc02-210212.pdf)
 
 manabaへのアクセス集中を避けるため、manabaの利用はコースニュース、小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを用いることを推奨しています。これらの手順をまとめた資料を作成しました。
 
-- [Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1MLMWnGLRVaR1ZkVoTV7NZ5HpMXSzNfX7z_UlOgSqkz8/edit?usp=sharing)
-- [YouTubeを使用して教材を配布する方法](https://docs.google.com/document/d/1IiqWRJqHTgfEwgH_fISEhulsRg0621mEB7sdTDHMaaI/edit?usp=sharing)
+- [Googleドライブから教材を配布する方法（令和３年度版）](https://docs.google.com/document/d/1wildoq9oUDxVuTaEbevfyQ6FirVfS677i534puFQOmU/edit?usp=sharing)
+- [YouTubeを使用して教材を配布する方法（令和３年度版）](https://docs.google.com/document/d/1bNvxpyZNwKG_yJmcLvAwumvYvt9vpFdUrA7MvVPr1c0/edit?usp=sharing)
 
 オンライン授業には様々な形態がありますが、リアルタイムでかつインタラクティブに行うためのツールとしてGoogle Meet, Zoom, Teams, WebExなどがあります。本学では、ZoomとGoogle Meetを推奨し、以下の資料を作成しました。
 
