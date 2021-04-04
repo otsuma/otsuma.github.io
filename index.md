@@ -34,19 +34,10 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。そこで本部会では以下の資料を作成して、5月4日版のpdf版をmanabaより配布しました。
 
-- [オンライン授業を受けるための準備 Googleドキュメント版](https://docs.google.com/document/d/1nVIJVc3Svd7bupQ-SJkCDH0LvfA3iZ3UV8OdkyAsOGk/edit?usp=sharing)
-- [オンライン授業を受けるための準備 pdf版](docs/student01.pdf)
+- [オンライン授業を受けるための準備（令和３年度版） Googleドキュメント版](https://docs.google.com/document/d/1-6KpBcaXRxwqD5-KHYEZAXpgdpCDfV15deAR482ffJQ/edit?usp=sharing)
 - [Zoomの使い方について Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
-- [Zoomの使い方について pdf版](docs/student01Zoom.pdf)
 - [Google Meetの使い方について Googleドキュメント版](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
-- [Google Meetの使い方について pdf版](docs/student01Meet.pdf)
-
-※「オンライン授業を受けるための準備」と「Zoomの使い方について」は社会情報学部宮崎先生より提供いただきました。
 
 ## 事例集
 
-授業の内容によって様々なオンライン授業の方法が考えらます。ノウハウを共有するため、以下の資料を作成することになりました。みなさまの事例をご紹介いただきますようお願い致します。具体的な講義を事例としたガイド（大社生）の提供いただき、追加しました(4/30)。
-
-- [オンライン授業の事例集](https://docs.google.com/document/d/e/2PACX-1vS1rvmqQbwg34QuVwx20Mck4DO71eAFODgTn692P-6zHyYSqX08nyYBUusQXsOui0xlZAeTDpz3hCyl/pub)
-
-この事例集を**編集**するには大妻女子大学のG Suiteアカウントが必要です。[こちら](https://docs.google.com/document/d/1kIWqgqQj5gHs_T_p933rcCAcJ1Aivypb2pwzb0n5XEw/edit?usp=sharing)からログインして編集ください。
+令和３年度は制作していません。
