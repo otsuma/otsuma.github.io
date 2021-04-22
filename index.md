@@ -32,7 +32,7 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 ## 学生向けマニュアル
 
-教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業では、受講する学生向けの資料を配布する必要があります。そこで本部会では以下の資料を作成して、5月4日版のpdf版をmanabaより配布しました。
+教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業等で配布することを目的として以下の資料を作成しました。
 
 - [オンライン授業を受けるための準備（令和３年度版） Googleドキュメント版](https://docs.google.com/document/d/1-6KpBcaXRxwqD5-KHYEZAXpgdpCDfV15deAR482ffJQ/edit?usp=sharing)
 - [Zoomの使い方について Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
