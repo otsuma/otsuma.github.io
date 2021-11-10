@@ -41,4 +41,7 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 ## 事例集
 
-令和３年度は制作していません。
+本学の教員から寄せられたオンライン授業の実施事例を紹介します。「大妻Googleアカウント」でログインの上、閲覧してください。
+
+・[オンライン授業に関するオンデマンドFD研修会(作成中)](https://docs.google.com/document/d/1_oTyOCNAci0CY8wa4G3vK9W3lsD38ecAXt3di0mK9BE/edit?usp=sharing)
+
