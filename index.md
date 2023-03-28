@@ -12,12 +12,12 @@
 
 オンライン授業の教材は授業の内容に応じて、様々な媒体で配布されますが、大妻女子大学でLMSとして従来から使用されているmanabaを入り口として使用することになりました。そこで、manabaを使ってオンライン授業のコンテンツを配信する方法を述べた以下の資料を作成しました。
 
-- [manaba簡易版マニュアル（令和３年度版）](docs/doc02-210212.pdf)
+- [manaba簡易版マニュアル](docs/doc02-210212.pdf)
 
 manabaへのアクセス集中を避けるため、manabaの利用はコースニュース、小テスト、レポートなどの利用にとどめ、教材の配布には、YouTubeやGoogleドライブなどの外部サービスを用いることを推奨しています。これらの手順をまとめた資料を作成しました。
 
-- [Googleドライブから教材を配布する方法（令和３年度版）](https://docs.google.com/document/d/1wildoq9oUDxVuTaEbevfyQ6FirVfS677i534puFQOmU/edit?usp=sharing)
-- [YouTubeを使用して教材を配布する方法（令和３年度版）](https://docs.google.com/document/d/1bNvxpyZNwKG_yJmcLvAwumvYvt9vpFdUrA7MvVPr1c0/edit?usp=sharing)
+- [Googleドライブから教材を配布する方法](https://docs.google.com/document/d/1wildoq9oUDxVuTaEbevfyQ6FirVfS677i534puFQOmU/edit?usp=sharing)
+- [YouTubeを使用して教材を配布する方法](https://docs.google.com/document/d/1bNvxpyZNwKG_yJmcLvAwumvYvt9vpFdUrA7MvVPr1c0/edit?usp=sharing)
 
 令和4年度の授業形態は令和3年度と変わらず、全授業科目の8割程度を対面授業、2割程度をオンライン授業とすることを基本方針となりました。また、対面授業に出席するために登校した学生が、別の時間帯にオンライン授業がある場合、学内から受講する場所の確保が困難であることから、任意の時間帯に自宅からでも受講できるように、オンライン授業は全てオンデマンド型（リアルタイムではない映像配信型等）での実施を原則とすることとなりました。
 
