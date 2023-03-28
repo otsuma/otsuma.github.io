@@ -6,7 +6,7 @@
 
 大妻女子大学ではオンライン授業を円滑に進めることを目的としてオンライン授業運営部会が組織され、オンライン授業のガイドを作成しました。このガイドは皆さまからいただいた最新の情報を反映していきます。
 
-- [オンライン授業の実施ガイド(令和4年度版)](https://docs.google.com/document/d/11fcTGXW_I2ozGsXKVk1jawSw4XqXG_BwsbX4lT6gjfk/edit?usp=sharing)
+- [オンライン授業の実施ガイド](https://docs.google.com/document/d/1KqB2isa2gqEId-15gMenoLs5e3bV3hasYasLMxHe2kk/edit?usp=sharing)
 
 ## オンライン授業に使用するツール
 
@@ -31,7 +31,7 @@ manabaへのアクセス集中を避けるため、manabaの利用はコース�
 
 教員向けの教材作成に関する上記のドキュメントに加え、オンライン授業の初回授業等で配布することを目的として以下の資料を作成しました。
 
-- [オンライン授業を受けるための準備（令和4年度版） Googleドキュメント版](https://docs.google.com/document/d/1SnH30K6U8tkJzKV2Fnv-JvBuldgQc-Bj4MkrH092uMA/edit?usp=sharing)
+- [オンライン授業を受けるための準備Googleドキュメント版](https://docs.google.com/document/d/1H4mCoMHfanAlDXtQy2naY96st4wfpew7xKbGzG6NWhE/edit?usp=sharing)
 - [Zoomの使い方について Googleドキュメント版](https://docs.google.com/document/d/1lyqlFoW5cuZDBGcnz7vXrnKm6qmnFjxH8Nn5DlY5cOM/edit?usp=sharing)
 - [Google Meetの使い方について Googleドキュメント版](https://docs.google.com/document/d/1XCJDTdF9_BeZP1a6qT6pwiIZmvcO3N-qjoyIZz1QsGo/edit?usp=sharing)
 
